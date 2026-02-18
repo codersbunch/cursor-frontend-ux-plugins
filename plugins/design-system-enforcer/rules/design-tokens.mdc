@@ -1,0 +1,15 @@
+---
+description: Design token and component usage standards for consistent UI
+alwaysApply: true
+---
+
+design-system-standards:
+
+- Always use design tokens for colors, spacing, typography - never hardcode hex values or px sizes
+- Use components from the design system library - never build custom versions of existing components
+- Spacing must use the 4px grid system (4, 8, 12, 16, 24, 32, 48, 64px)
+- Colors must reference token names (e.g., color.primary.500) not raw values (#3B82F6)
+- Typography must use defined text styles (heading-lg, body-md) not arbitrary font sizes
+- Icons must come from the approved icon library - no ad-hoc SVGs
+- Never override design system component styles with !important
+- Component variants must match defined variants in the design system - no one-off styles

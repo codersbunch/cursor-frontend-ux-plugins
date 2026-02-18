@@ -1,0 +1,11 @@
+{
+  "hooks": {
+    "afterFileEdit": [
+      {
+        "command": "./scripts/run-axe-lint.sh",
+        "matcher": ".tsx|.jsx|.vue|.html",
+        "description": "Run axe-core linting after editing UI component files"
+      }
+    ]
+  }
+}

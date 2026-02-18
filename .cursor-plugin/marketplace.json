@@ -1,0 +1,24 @@
+{
+  "name": "frontend-ux-plugins",
+  "owner": {
+    "name": "CodersBunch",
+    "email": "praveen@codersbunch.com"
+  },
+  "metadata": {
+    "description": "Frontend and UX plugins for Cursor: Accessibility Enforcer and Design System Enforcer",
+    "version": "1.0.0",
+    "pluginRoot": "plugins"
+  },
+  "plugins": [
+    {
+      "name": "a11y-enforcer",
+      "source": "./plugins/a11y-enforcer",
+      "description": "WCAG compliance, ARIA standards, and accessible component generation"
+    },
+    {
+      "name": "design-system-enforcer",
+      "source": "./plugins/design-system-enforcer",
+      "description": "Enforce design tokens, component guidelines, and sync with Figma"
+    }
+  ]
+}

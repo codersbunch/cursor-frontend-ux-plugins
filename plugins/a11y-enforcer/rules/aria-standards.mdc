@@ -1,0 +1,17 @@
+---
+description: ARIA and semantic HTML standards for WCAG 2.1 AA compliance
+alwaysApply: true
+---
+
+accessibility-standards:
+
+- Use semantic HTML elements (button, nav, main, header, footer) instead of div with roles
+- Every image must have a descriptive alt attribute (empty alt="" for decorative images)
+- All form inputs must have associated label elements (not just placeholder text)
+- Interactive elements must be keyboard accessible and have visible focus indicators
+- Color alone must not convey meaning - use icons, text, or patterns alongside color
+- Minimum contrast ratio: 4.5:1 for normal text, 3:1 for large text (WCAG AA)
+- All videos must have captions, all audio must have transcripts
+- Never use positive tabindex values - use DOM order for tab sequence
+- Modal dialogs must trap focus and return focus on close
+- Dynamic content changes must be announced via aria-live regions

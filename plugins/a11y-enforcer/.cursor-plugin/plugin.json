@@ -1,0 +1,13 @@
+{
+  "name": "a11y-enforcer",
+  "displayName": "Accessibility Enforcer",
+  "version": "1.0.0",
+  "description": "Enforce WCAG 2.1 AA compliance, ARIA standards, semantic HTML, and keyboard navigation. Auto-runs axe-core on file edits.",
+  "author": {
+    "name": "CodersBunch",
+    "email": "praveen@codersbunch.com"
+  },
+  "license": "MIT",
+  "keywords": ["accessibility", "a11y", "wcag", "aria", "screen-reader", "keyboard-navigation"],
+  "logo": "assets/logo.svg"
+}
