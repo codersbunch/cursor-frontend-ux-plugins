@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "description": "Enforce design token usage, component guidelines, and sync design tokens from Figma via MCP.",
   "author": {
-    "name": "CodersBunch",
-    "email": "praveen@codersbunch.com"
+    "name": "CoderBunch",
+    "email": "praveen@coderbunch.com"
   },
   "license": "MIT",
   "keywords": ["design-system", "figma", "tokens", "components", "ui", "consistency"],

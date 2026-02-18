@@ -1,8 +1,8 @@
 {
   "name": "frontend-ux-plugins",
   "owner": {
-    "name": "CodersBunch",
-    "email": "praveen@codersbunch.com"
+    "name": "CoderBunch",
+    "email": "praveen@coderbunch.com"
   },
   "metadata": {
     "description": "Frontend and UX plugins for Cursor: Accessibility Enforcer and Design System Enforcer",

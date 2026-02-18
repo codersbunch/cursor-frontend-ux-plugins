@@ -12,7 +12,7 @@ WCAG 2.1 AA compliance, ARIA standards, keyboard navigation. Auto-runs axe-core 
 Enforce design tokens, component guidelines. Sync tokens from Figma via MCP.
 
 ## Author
-Praveen · praveen@codersbunch.com
+Praveen · praveen@coderbunch.com
 
 ## License
 MIT
